@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @magles
+- 👀 I’m interested in videogemes
+- 🌱 I’m currently learning Lua
